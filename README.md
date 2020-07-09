@@ -1,6 +1,8 @@
 ### Hi there! 👋 :smiley:
 
- :seedling: I’m currently learning JavaScript
+ :seedling:  I’m currently learning JavaScript
+ 
+ On the #100DaysOfCode journey! :chart_with_upwards_trend:
 
 <!--
 **anirudhkanakatte/anirudhkanakatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
